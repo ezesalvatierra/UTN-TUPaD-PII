@@ -2,18 +2,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ejercicio06;
+package ejercicio10;
 
 /**
  *
  * @author ezequ
  */
-public class Ejercicio06 {
+public class Ejercicio10 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Nombre: Juan Pérez\nEdad: 30 años\nDirección: \"Calle falsa 123\"");
+        int a = 5;
+        int b = 2;
+        int resultado = a / b;
+        System.out.println("Resultado: " + resultado);
     }
 }

@@ -24,5 +24,4 @@ public class JavaApplication16 {
         System.out.println("Altura: " + altura);
         System.out.println("es estudiante?: " + estudiante);
     }
-    
 }

@@ -26,6 +26,5 @@ public class Ejercicio04 {
         edad = Integer.parseInt(input.nextLine());
         
         System.out.println("Hola " + nombre + ", tienes " + edad + " años");
-    }
-    
+    }   
 }
